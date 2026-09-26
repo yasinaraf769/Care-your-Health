@@ -1,0 +1,3 @@
+class DepartmentMockDataSource {
+  const DepartmentMockDataSource();
+}

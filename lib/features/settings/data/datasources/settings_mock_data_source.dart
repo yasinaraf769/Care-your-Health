@@ -1,0 +1,3 @@
+class SettingsMockDataSource {
+  const SettingsMockDataSource();
+}

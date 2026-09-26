@@ -1,0 +1,3 @@
+class BillingMockDataSource {
+  const BillingMockDataSource();
+}

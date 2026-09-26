@@ -1,0 +1,3 @@
+class DoctorMockDataSource {
+  const DoctorMockDataSource();
+}

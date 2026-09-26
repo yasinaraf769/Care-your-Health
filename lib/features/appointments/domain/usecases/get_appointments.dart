@@ -1,0 +1,3 @@
+class GetAppointments {
+  const GetAppointments();
+}

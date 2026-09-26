@@ -1,0 +1,3 @@
+class ReportsMockDataSource {
+  const ReportsMockDataSource();
+}

@@ -1,0 +1,3 @@
+class PharmacyMockDataSource {
+  const PharmacyMockDataSource();
+}

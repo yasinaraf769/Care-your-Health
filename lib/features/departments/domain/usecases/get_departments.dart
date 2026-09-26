@@ -1,0 +1,3 @@
+class GetDepartments {
+  const GetDepartments();
+}

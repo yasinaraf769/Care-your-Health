@@ -1,0 +1,3 @@
+class GetReports {
+  const GetReports();
+}

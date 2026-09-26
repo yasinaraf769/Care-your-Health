@@ -1,0 +1,3 @@
+class GetDashboardSummary {
+  const GetDashboardSummary();
+}

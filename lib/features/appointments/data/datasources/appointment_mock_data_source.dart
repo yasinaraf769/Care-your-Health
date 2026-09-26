@@ -1,0 +1,3 @@
+class AppointmentMockDataSource {
+  const AppointmentMockDataSource();
+}

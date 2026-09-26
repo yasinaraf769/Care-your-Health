@@ -1,0 +1,3 @@
+class GetSettings {
+  const GetSettings();
+}

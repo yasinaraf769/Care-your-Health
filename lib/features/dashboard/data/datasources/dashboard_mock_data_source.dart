@@ -1,0 +1,3 @@
+class DashboardMockDataSource {
+  const DashboardMockDataSource();
+}

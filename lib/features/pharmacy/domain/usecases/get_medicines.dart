@@ -1,0 +1,3 @@
+class GetMedicines {
+  const GetMedicines();
+}

@@ -1,0 +1,3 @@
+class GetInvoices {
+  const GetInvoices();
+}
